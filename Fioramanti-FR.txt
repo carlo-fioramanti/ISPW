@@ -1,0 +1,3 @@
+1.	The system shall display the books to the owner and the waiters.
+2.	The system shall send a message to the owner to reserve a table.
+3.	The system shall send the orders to the kitchen by the waiters.
